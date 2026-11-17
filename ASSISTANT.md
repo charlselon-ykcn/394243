@@ -3,8 +3,8 @@
 Tell a brand story through an unfolding paper scroll, ink-inspired imagery and scroll transitions.
 
 Template & full download: https://motiongit.com/@motiongit/motiongit-promo-ink
-Version: 2.6.6
-Download available; current terms are listed with the package.
+Version: 2.6.7
+Demo available. Check the official page for current download availability.
 
 ## Technical reference
 
