@@ -5,20 +5,18 @@
   "owner": "motiongit",
   "slug": "motiongit-promo-ink",
   "website": "https://motiongit.com/@motiongit/motiongit-promo-ink",
-  "version": "2.6.7",
+  "version": "2.6.8-alpha.2",
   "technical": {
     "en": [
       "Declared runtime profile: html-canvas/1.",
-      "Editable inputs are mapped through the template parameter schema and preset to its existing animation project.",
-      "The declared timeline has a fixed duration; new content fits its existing scene order and timing."
+      "Editable inputs are mapped through the template parameter schema and preset to its existing animation project."
     ],
     "zh": [
       "声明的运行配置：html-canvas/1。",
-      "通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。",
-      "已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。"
+      "通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。"
     ]
   },
-  "checkedAt": "2026-11-17",
+  "checkedAt": "2026-11-24",
   "availability": "demo-only",
   "title": {
     "en": "Paper Scroll · Brand Story",
@@ -85,20 +83,20 @@
   ],
   "goodFor": {
     "en": [
-      "A complete 59.25-second paper-scroll product or brand narrative driven by current-production copy, brand and image/video inputs."
+      "A complete paper-scroll product or brand narrative driven by current-production copy, brand and image/video inputs (59.25 seconds natively, up to about 119.25 seconds with settled holds)."
     ],
     "zh": [
-      "A complete 59.25-second paper-scroll product or brand narrative driven by current-production copy, brand and image/video inputs."
+      "A complete paper-scroll product or brand narrative driven by current-production copy, brand and image/video inputs (59.25 seconds natively, up to about 119.25 seconds with settled holds)."
     ]
   },
   "boundaries": {
     "en": [
-      "The documented output is 1920 × 1080, 60 fps. The public demo is 59.25 seconds.",
+      "The documented output is 1920 × 1080, 60 fps; default demo duration is 59.25 seconds.",
       "Use the actual package parameter bounds; extra materials do not automatically create extra scenes.",
       "Unreviewed portrait conversion, arbitrary scene reordering, or declaring unrelated diagram semantics without adapting and reviewing them."
     ],
     "zh": [
-      "已声明输出为 1920 × 1080，60 fps；公开样片 59.25 秒。",
+      "已声明输出为 1920 × 1080，60 fps；默认样片 59.25 秒。",
       "按实际包的参数边界制作；增加素材不会自动增加场景。"
     ]
   },

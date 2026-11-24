@@ -4,7 +4,7 @@
 
 Tell a brand story through an unfolding paper scroll, ink-inspired imagery and scroll transitions.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.7** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.8-alpha.2** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
 
 Motion templates now support asset APIs for background music, stickers, images and video, with free options. Upgraded templates remain **100% free and open source**. Download the upgrade from the official MotionGit page below. MotionGit links API access to individual accounts to prevent abuse from bulk requests. See MotionGit for the scope of free API usage.
 
@@ -25,9 +25,8 @@ Demo available. Check the official page for current download availability.
 
 - Declared runtime profile: html-canvas/1.
 - Editable inputs are mapped through the template parameter schema and preset to its existing animation project.
-- The declared timeline has a fixed duration; new content fits its existing scene order and timing.
 
-Demo duration: **59.25s**. The documented output is 1920 × 1080, 60 fps. The public demo is 59.25 seconds. Use the actual package parameter bounds; extra materials do not automatically create extra scenes. Unreviewed portrait conversion, arbitrary scene reordering, or declaring unrelated diagram semantics without adapting and reviewing them.
+Demo duration: **59.25s**. The documented output is 1920 × 1080, 60 fps; default demo duration is 59.25 seconds. Use the actual package parameter bounds; extra materials do not automatically create extra scenes. Unreviewed portrait conversion, arbitrary scene reordering, or declaring unrelated diagram semantics without adapting and reviewing them.
 
 ## Inputs and materials
 
@@ -37,7 +36,7 @@ Demo duration: **59.25s**. The documented output is 1920 × 1080, 60 fps. The pu
 - **Optional:** The current voice recording or your narration preference for this production.
 - **Optional:** A licensed music track or your preference for music in this production.
 
-Useful for: A complete 59.25-second paper-scroll product or brand narrative driven by current-production copy, brand and image/video inputs.
+Useful for: A complete paper-scroll product or brand narrative driven by current-production copy, brand and image/video inputs (59.25 seconds natively, up to about 119.25 seconds with settled holds).
 
 ## Runtime requirements
 

@@ -4,7 +4,7 @@
 
 沿宣纸手卷展开品牌故事，以水墨意象和卷轴转场营造东方叙事。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.7** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.8-alpha.2** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
 
 Motion 模板现已接入背景音乐、贴纸、图片和视频等素材接口，并提供免费背景音乐及免费素材检索。升级版模板仍然 **100% 免费开源**。请从下方 MotionGit 官网下载升级版，官网按账号提供接口访问，防止批量请求滥用。素材接口的免费范围以官网说明为准。
 
@@ -25,9 +25,8 @@ Demo 已公开，下载开放状态以官网为准。
 
 - 声明的运行配置：html-canvas/1。
 - 通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。
-- 已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。
 
-样片时长: **59.25s**. 已声明输出为 1920 × 1080，60 fps；公开样片 59.25 秒。 按实际包的参数边界制作；增加素材不会自动增加场景。
+样片时长: **59.25s**. 已声明输出为 1920 × 1080，60 fps；默认样片 59.25 秒。 按实际包的参数边界制作；增加素材不会自动增加场景。
 
 ## 输入素材与内容
 
@@ -37,7 +36,7 @@ Demo 已公开，下载开放状态以官网为准。
 - **可选:** 本期配音文件，或是否需要配音的安排。
 - **可选:** 本期已授权配乐，或本期是否需要配乐的偏好。
 
-适用内容: A complete 59.25-second paper-scroll product or brand narrative driven by current-production copy, brand and image/video inputs.
+适用内容: A complete paper-scroll product or brand narrative driven by current-production copy, brand and image/video inputs (59.25 seconds natively, up to about 119.25 seconds with settled holds).
 
 ## 运行环境
 
